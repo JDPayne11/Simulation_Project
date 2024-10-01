@@ -3,4 +3,4 @@ project(MyCMakeProject)                 # Project name
 
 set(CMAKE_CXX_STANDARD 11)              # Set C++ standard
 
-add_executable(MyProgram src/main.cpp)  # Create an executable from source
+add_executable(simulate src/main.cpp)  # Create an executable from source
